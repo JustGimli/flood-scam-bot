@@ -1,0 +1,7 @@
+/telethone-grbber/*.session
+/telethone-grbber/*.json
+/telethone-grbber/*.txt
+/telethone-grbber/*.ini
+
+/godeie/config.py
+/godeie/__pycache__
