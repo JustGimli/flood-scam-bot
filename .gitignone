@@ -1,0 +1,6 @@
+*.session
+*.json
+*.txt
+*.ini
+*.pyc
+/godeie/config.py
